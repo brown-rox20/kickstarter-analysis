@@ -52,5 +52,5 @@ Though the data set looked at 1047 different fundraising campaigns for plays the
 
 - One limitation the data has is that it's a relatively small sample size for the amount of years it covers.
 
-- Here is another way to look at Outcomes Based on Goals
+- Here is another way to look at Outcomes Based on Goals:
 ![Alt_Outcomes_Based_on_Goals](https://github.com/brown-rox20/kickstarter-analysis/blob/main/Alt_Outcomes_Based_on_Goals.png)
