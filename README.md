@@ -4,7 +4,7 @@
 Louise recently put on a play which almost reached its goal, but not quite. Now she wants to know how successful or unsuccessful other plays were using goal amount and launch date.
 
 ### Purpose
-The purpose of this analysis is to help Louise decide when is the best time to start a fundraising campaign for theater plays and how much she should set as her goal.
+The purpose of this analysis will be to help Louise decide when the best time would be to start a fundraising campaign for theater plays and how much she should set as her goal.
 
 ## Analysis and Challenges
 I started by using the spreadsheet titled "Kickstarter" to create a PIVOT table in a new tab. I named the tab Theater Outcomes by Launch Date. I used the Years and Parent Category for filters and ungrouped the Years by month. Months are in the x-axis and outcomes are in the y-axis. Then I created a line chart based of that PIVOT table. I titled the chart Theater Outcomes by Launch Date
